@@ -1,0 +1,9 @@
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Release\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Release\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Release\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Release\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Release\BuesineesLyer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Release\BuesineesLyer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Release\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Release\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Release\Buesinee.BAA647E8.Up2Date

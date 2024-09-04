@@ -1,0 +1,18 @@
+C:\Users\Khaled\Desktop\كورس 18\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\كورس 18\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\كورس 18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\كورس 18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\كورس 18\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\كورس 18\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\Course18\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\Course18\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\Course18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Course18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Course18\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\Course18\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\My SuperMarket\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\My SuperMarket\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{324EF1E8-FB79-43E0-A394-37B61CDF4730}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Super_Market_Project</RootNamespace>
+    <AssemblyName>Super Market Project</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationList.Designer.cs">
+      <DependentUpon>ApplicationList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custormers\AddCustomerReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custormers\AddCustomerReview.Designer.cs">
+      <DependentUpon>AddCustomerReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custormers\AddUpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custormers\AddUpdateCustomer.Designer.cs">
+      <DependentUpon>AddUpdateCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custormers\ChangeLastOrderDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custormers\ChangeLastOrderDate.Designer.cs">
+      <DependentUpon>ChangeLastOrderDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custormers\ContactWithCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custormers\ContactWithCustomer.Designer.cs">
+      <DependentUpon>ContactWithCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custormers\CustomersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custormers\CustomersList.Designer.cs">
+      <DependentUpon>CustomersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\CustomerInvoiceInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\CustomerInvoiceInfo.Designer.cs">
+      <DependentUpon>CustomerInvoiceInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\CustomerInvoicesHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\CustomerInvoicesHistory.Designer.cs">
+      <DependentUpon>CustomerInvoicesHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\FindCustomerForMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\FindCustomerForMainForm.Designer.cs">
+      <DependentUpon>FindCustomerForMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\FindCustomerInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\FindCustomerInvoice.Designer.cs">
+      <DependentUpon>FindCustomerInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\LoginRegistry.cs" />
+    <Compile Include="MainAndLog\OrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\OrderHistory.Designer.cs">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Offers\AddNewOffer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Offers\AddNewOffer.Designer.cs">
+      <DependentUpon>AddNewOffer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Offers\FindOffers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Offers\FindOffers.Designer.cs">
+      <DependentUpon>FindOffers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Offers\OffersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Offers\OffersList.Designer.cs">
+      <DependentUpon>OffersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Offers\UpdatePercentage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Offers\UpdatePercentage.Designer.cs">
+      <DependentUpon>UpdatePercentage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\AddProductToStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\AddProductToStorage.Designer.cs">
+      <DependentUpon>AddProductToStorage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\AddProductToSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\AddProductToSystem.Designer.cs">
+      <DependentUpon>AddProductToSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\AddUpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\AddUpdateEmployee.Designer.cs">
+      <DependentUpon>AddUpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\ctrAddUpdateEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Employees\ctrAddUpdateEmployee.Designer.cs">
+      <DependentUpon>ctrAddUpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\EmployeeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\EmployeeInfo.Designer.cs">
+      <DependentUpon>EmployeeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\Employees List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\Employees List.Designer.cs">
+      <DependentUpon>Employees List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainAndLog\LoggedInUser.cs" />
+    <Compile Include="MainAndLog\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainAndLog\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\DeleteProductShortCut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\DeleteProductShortCut.Designer.cs">
+      <DependentUpon>DeleteProductShortCut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\FindProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\FindProduct.Designer.cs">
+      <DependentUpon>FindProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\FindProductByFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Products\FindProductByFilter.Designer.cs">
+      <DependentUpon>FindProductByFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\ListOfProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\ListOfProducts.Designer.cs">
+      <DependentUpon>ListOfProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\ProductInfromation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\ProductInfromation.Designer.cs">
+      <DependentUpon>ProductInfromation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\UdpateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\UdpateProduct.Designer.cs">
+      <DependentUpon>UdpateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\UpdateProductShortCut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\UpdateProductShortCut.Designer.cs">
+      <DependentUpon>UpdateProductShortCut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Providers\AddUpdateProvider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Providers\AddUpdateProvider.Designer.cs">
+      <DependentUpon>AddUpdateProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Providers\ChangeProviderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Providers\ChangeProviderInfo.Designer.cs">
+      <DependentUpon>ChangeProviderInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Providers\ctrAddUpdateProvider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Providers\ctrAddUpdateProvider.Designer.cs">
+      <DependentUpon>ctrAddUpdateProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Providers\ProviderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Providers\ProviderInfo.Designer.cs">
+      <DependentUpon>ProviderInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Providers\ProvidersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Providers\ProvidersList.Designer.cs">
+      <DependentUpon>ProvidersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\AddNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\AddNewUser.Designer.cs">
+      <DependentUpon>AddNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\ctrAddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\ctrAddUser.Designer.cs">
+      <DependentUpon>ctrAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\ctrUpdateUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\ctrUpdateUser.Designer.cs">
+      <DependentUpon>ctrUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\UpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\UpdateUser.Designer.cs">
+      <DependentUpon>UpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\UserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\UserInfo.Designer.cs">
+      <DependentUpon>UserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\UsersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\UsersList.Designer.cs">
+      <DependentUpon>UsersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\AddNewVegOrFruitToStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\AddNewVegOrFruitToStorage.Designer.cs">
+      <DependentUpon>AddNewVegOrFruitToStorage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\AddVegOrFruitToSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\AddVegOrFruitToSystem.Designer.cs">
+      <DependentUpon>AddVegOrFruitToSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\ctrFindVegOrFruitByFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\ctrFindVegOrFruitByFilter.Designer.cs">
+      <DependentUpon>ctrFindVegOrFruitByFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\ctrVegOrFruitInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\ctrVegOrFruitInfo.Designer.cs">
+      <DependentUpon>ctrVegOrFruitInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\FindVegOrFruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\FindVegOrFruit.Designer.cs">
+      <DependentUpon>FindVegOrFruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\UpdateVegOrFruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\UpdateVegOrFruit.Designer.cs">
+      <DependentUpon>UpdateVegOrFruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\VegOrFruitInfromation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\VegOrFruitInfromation.Designer.cs">
+      <DependentUpon>VegOrFruitInfromation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VegOrFruit\VegOrFruitList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VegOrFruit\VegOrFruitList.Designer.cs">
+      <DependentUpon>VegOrFruitList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ApplicationList.resx">
+      <DependentUpon>ApplicationList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custormers\AddCustomerReview.resx">
+      <DependentUpon>AddCustomerReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custormers\AddUpdateCustomer.resx">
+      <DependentUpon>AddUpdateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custormers\ChangeLastOrderDate.resx">
+      <DependentUpon>ChangeLastOrderDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custormers\ContactWithCustomer.resx">
+      <DependentUpon>ContactWithCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custormers\CustomersList.resx">
+      <DependentUpon>CustomersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\CustomerInvoiceInfo.resx">
+      <DependentUpon>CustomerInvoiceInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\CustomerInvoicesHistory.resx">
+      <DependentUpon>CustomerInvoicesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\FindCustomerForMainForm.resx">
+      <DependentUpon>FindCustomerForMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\FindCustomerInvoice.resx">
+      <DependentUpon>FindCustomerInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\OrderHistory.resx">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Offers\AddNewOffer.resx">
+      <DependentUpon>AddNewOffer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Offers\FindOffers.resx">
+      <DependentUpon>FindOffers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Offers\OffersList.resx">
+      <DependentUpon>OffersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Offers\UpdatePercentage.resx">
+      <DependentUpon>UpdatePercentage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\AddProductToStorage.resx">
+      <DependentUpon>AddProductToStorage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\AddProductToSystem.resx">
+      <DependentUpon>AddProductToSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\AddUpdateEmployee.resx">
+      <DependentUpon>AddUpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\ctrAddUpdateEmployee.resx">
+      <DependentUpon>ctrAddUpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\EmployeeInfo.resx">
+      <DependentUpon>EmployeeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\Employees List.resx">
+      <DependentUpon>Employees List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainAndLog\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\DeleteProductShortCut.resx">
+      <DependentUpon>DeleteProductShortCut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\FindProduct.resx">
+      <DependentUpon>FindProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\FindProductByFilter.resx">
+      <DependentUpon>FindProductByFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\ListOfProducts.resx">
+      <DependentUpon>ListOfProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\ProductInfromation.resx">
+      <DependentUpon>ProductInfromation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\UdpateProduct.resx">
+      <DependentUpon>UdpateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\UpdateProductShortCut.resx">
+      <DependentUpon>UpdateProductShortCut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Providers\AddUpdateProvider.resx">
+      <DependentUpon>AddUpdateProvider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Providers\ChangeProviderInfo.resx">
+      <DependentUpon>ChangeProviderInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Providers\ctrAddUpdateProvider.resx">
+      <DependentUpon>ctrAddUpdateProvider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Providers\ProviderInfo.resx">
+      <DependentUpon>ProviderInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Providers\ProvidersList.resx">
+      <DependentUpon>ProvidersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\AddNewUser.resx">
+      <DependentUpon>AddNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\ctrAddUser.resx">
+      <DependentUpon>ctrAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\ctrUpdateUser.resx">
+      <DependentUpon>ctrUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\UpdateUser.resx">
+      <DependentUpon>UpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\UserInfo.resx">
+      <DependentUpon>UserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\UsersList.resx">
+      <DependentUpon>UsersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\AddNewVegOrFruitToStorage.resx">
+      <DependentUpon>AddNewVegOrFruitToStorage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\AddVegOrFruitToSystem.resx">
+      <DependentUpon>AddVegOrFruitToSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\ctrFindVegOrFruitByFilter.resx">
+      <DependentUpon>ctrFindVegOrFruitByFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\ctrVegOrFruitInfo.resx">
+      <DependentUpon>ctrVegOrFruitInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\FindVegOrFruit.resx">
+      <DependentUpon>FindVegOrFruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\UpdateVegOrFruit.resx">
+      <DependentUpon>UpdateVegOrFruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\VegOrFruitInfromation.resx">
+      <DependentUpon>VegOrFruitInfromation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VegOrFruit\VegOrFruitList.resx">
+      <DependentUpon>VegOrFruitList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BuesineesLyer\BuesineesLyer.csproj">
+      <Project>{bd1c3f6c-e646-429f-a450-b33473af883f}</Project>
+      <Name>BuesineesLyer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-arrival.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\working.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\innovation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-to-basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favourite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-to-basket1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

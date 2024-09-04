@@ -1,0 +1,27 @@
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\bin\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\bin\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.CopyComplete
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\obj\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\كورس 18\BuesineesLyer\obj\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Debug\Buesinee.BAA647E8.Up2Date
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\Course18\BuesineesLyer\obj\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\bin\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\bin\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\obj\Debug\BuesineesLyer.csproj.CopyComplete
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\obj\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\BuesineesLyer\obj\Debug\BuesineesLyer.pdb

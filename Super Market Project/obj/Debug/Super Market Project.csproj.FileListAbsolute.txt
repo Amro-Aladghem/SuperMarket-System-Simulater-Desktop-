@@ -1,0 +1,192 @@
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\Super Market Project.exe.config
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\Super Market Project.exe
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\Super Market Project.pdb
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super Market Project.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Form1.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Properties.Resources.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super Market Project.csproj.GenerateResource.cache
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super Market Project.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super Market Project.exe
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super Market Project.pdb
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super Market Project.csproj.CopyComplete
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.ctrAddUpdateEmployee.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Employees_List.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.AddUpdateEmployee.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.EmployeeInfo.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.UsersList.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.ctrAddUser.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.AddNewUser.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.ChangePassword.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.ctrUpdateUser.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.UpdateUser.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Login.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Users.UserInfo.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ctrAddUpdateProvider.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ProvidersList.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Providers.AddUpdateProvider.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ProviderInfo.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ChangeProviderInfo.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.AddProductToSystem.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.ListOfProducts.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.AddProductToStorage.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.UdpateProduct.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.ProductInfromation.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.FindProductByFilter.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.FindProduct.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.DeleteProductShortCut.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Products.UpdateProductShortCut.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.AddNewVegOrFruitToStorage.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruitList.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.AddVegOrFruitToSystem.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.ctrVegOrFruitInfo.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.UpdateVegOrFruit.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.ctrFindVegOrFruitByFilter.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.FindVegOrFruit.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.VegOrFruitInfromation.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Offers.AddNewOffer.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Offers.OffersList.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Offers.UpdatePercentage.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Offers.FindOffers.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.AddUpdateCustomer.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.CustomersList.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.ChangeLastOrderDate.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.ContactWithCustomer.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.AddCustomerReview.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.FindCustomerForMainForm.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.OrderHistory.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.CustomerInvoiceInfo.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.CustomerInvoicesHistory.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.FindCustomerInvoice.resources
+C:\Users\Khaled\Desktop\كورس 18\Super Market Project\obj\Debug\Super_Market_Project.ApplicationList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super Market Project.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\Super Market Project.exe.config
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\Super Market Project.exe
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\Super Market Project.pdb
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\Course18\Super Market Project\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.ApplicationList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.AddCustomerReview.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.AddUpdateCustomer.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.ChangeLastOrderDate.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.ContactWithCustomer.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Custormers.CustomersList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.CustomerInvoiceInfo.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.CustomerInvoicesHistory.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.FindCustomerForMainForm.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.FindCustomerInvoice.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.OrderHistory.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Offers.AddNewOffer.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Offers.FindOffers.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Offers.OffersList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Offers.UpdatePercentage.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.AddProductToStorage.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.AddProductToSystem.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.AddUpdateEmployee.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.ctrAddUpdateEmployee.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.EmployeeInfo.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Employees_List.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Form1.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Login.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.DeleteProductShortCut.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.FindProduct.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.FindProductByFilter.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.ListOfProducts.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.ProductInfromation.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.UdpateProduct.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Products.UpdateProductShortCut.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Properties.Resources.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Providers.AddUpdateProvider.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ChangeProviderInfo.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ctrAddUpdateProvider.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ProviderInfo.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Providers.ProvidersList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.AddNewUser.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.ChangePassword.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.ctrAddUser.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.ctrUpdateUser.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.UpdateUser.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.UserInfo.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.Users.UsersList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.AddNewVegOrFruitToStorage.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.AddVegOrFruitToSystem.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.ctrFindVegOrFruitByFilter.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.ctrVegOrFruitInfo.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.FindVegOrFruit.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.UpdateVegOrFruit.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.VegOrFruitInfromation.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruitList.resources
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super Market Project.csproj.GenerateResource.cache
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super Market Project.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super Market Project.csproj.CopyComplete
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super Market Project.exe
+C:\Users\Khaled\Desktop\Course18\Super Market Project\obj\Debug\Super Market Project.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\Super Market Project.exe.config
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\Super Market Project.exe
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\Super Market Project.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\BuesineesLyer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\DataAccessLayer.dll
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\BuesineesLyer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super Market Project.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.ApplicationList.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Custormers.AddCustomerReview.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Custormers.AddUpdateCustomer.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Custormers.ChangeLastOrderDate.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Custormers.ContactWithCustomer.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Custormers.CustomersList.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.CustomerInvoiceInfo.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.CustomerInvoicesHistory.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.FindCustomerForMainForm.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.FindCustomerInvoice.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.MainAndLog.OrderHistory.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Offers.AddNewOffer.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Offers.FindOffers.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Offers.OffersList.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Offers.UpdatePercentage.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.AddProductToStorage.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.AddProductToSystem.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.AddUpdateEmployee.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.ctrAddUpdateEmployee.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.EmployeeInfo.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Employees_List.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Form1.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Login.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.DeleteProductShortCut.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.FindProduct.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.FindProductByFilter.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.ListOfProducts.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.ProductInfromation.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.UdpateProduct.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Products.UpdateProductShortCut.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Properties.Resources.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Providers.AddUpdateProvider.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Providers.ChangeProviderInfo.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Providers.ctrAddUpdateProvider.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Providers.ProviderInfo.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Providers.ProvidersList.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.AddNewUser.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.ChangePassword.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.ctrAddUser.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.ctrUpdateUser.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.UpdateUser.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.UserInfo.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.Users.UsersList.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.AddNewVegOrFruitToStorage.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.AddVegOrFruitToSystem.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.ctrFindVegOrFruitByFilter.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.ctrVegOrFruitInfo.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.FindVegOrFruit.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.UpdateVegOrFruit.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruit.VegOrFruitInfromation.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super_Market_Project.VegOrFruitList.resources
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super Market Project.csproj.GenerateResource.cache
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super Market Project.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super Market Project.csproj.CopyComplete
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super Market Project.exe
+C:\Users\Khaled\Desktop\My SuperMarket\Super Market Project\obj\Debug\Super Market Project.pdb
